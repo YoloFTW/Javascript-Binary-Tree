@@ -1,0 +1,24 @@
+{
+  "name": "@yoloftw/jsbt",
+  "version": "1.0.0",
+  "description": "One solution to the popular binary tree problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoloFTW/Javascript-Binary-Tree.git"
+  },
+  "keywords": [
+    "javascript",
+    "binary",
+    "tree"
+  ],
+  "author": "YoloFTW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoloFTW/Javascript-Binary-Tree/issues"
+  },
+  "homepage": "https://github.com/YoloFTW/Javascript-Binary-Tree#readme"
+}
