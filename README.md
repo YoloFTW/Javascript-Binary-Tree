@@ -31,21 +31,24 @@
 ## About <a name = "about"></a>
 
 Jsbt stands for Javascript Binary Tree, it is one solution to the popular binary tree problem 
-
 </br>
 
 ## Installing
 
 For Installation With NPM
 
-
+```shell
+npm i @yoloftw/jsbt
+```
 </br>
 
 ## Usage <a name="usage"></a>
+
+Below is the basic usage of Javascript Binary Tree
 </br>
 
-## Create Tree <a name="Create-Tree"></a>
 
+## Create Tree <a name="Create-Tree"></a>
 Create binary tree object
 
 ```js
